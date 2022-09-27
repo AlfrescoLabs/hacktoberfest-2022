@@ -1,5 +1,3 @@
-[![Discord](https://img.shields.io/discord/451644531323174912?logo=Alfresco)](https://discord.com/channels/451644531323174912/451644531323174914)
-
 ## Alfresco and Hacktoberfest 2022
 
 Welcome to the [Hacktoberfest 2022](https://hacktoberfest.com) with Alfresco!
