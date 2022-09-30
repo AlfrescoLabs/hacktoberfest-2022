@@ -36,4 +36,4 @@ You can find us in the [Discord](https://discord.com/channels/451644531323174912
 ## References:
 
 - [Alfresco Content Services](https://docs.alfresco.com/content-services/latest/)
-- [Community Blogs](https://docs.alfresco.com/content-services/latest/)
+- [Community Blogs](https://hub.alfresco.com/t5/alfresco-content-services-blog/bg-p/blog-ECM-software)
