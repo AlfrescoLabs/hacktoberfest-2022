@@ -8,7 +8,7 @@ Hacktoberfest is a month-long celebration of open-source projects, their maintai
 
 To participate, there are two main ways you can contribute:
 
-1. Create a new own open source project and add it to the list below. You may use your own GitHub account or ask us to create it on the **AlfrescoLabs** one.
+1. Create a new own open source project and add it to the list below. You may use your own GitHub account or ask us to create it on the **AlfrescoLabs** one creating an *Issue* in this repository.
 2. Contribute to any of the existing open source extensions listed below that are allowing PRs for Hacktoberfest.
 
 In order to take part in Hacktoberfest, all you need to do is open a **Pull Requests** on any of the repos listed below, and get your PR merged or approved:
